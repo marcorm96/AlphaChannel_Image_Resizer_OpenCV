@@ -7,4 +7,6 @@ For Ubuntu (and derivates) users:
 	
 	2) Run: sudo chmod +x buildACIR.sh
 	
-	3) Run: java -jar AlphaChannel_Image_Resizer.jar
+	3) Run: java -jar AlphaChannel_Image_Resizer.jar pathImg 
+	
+	N.B. instead of pathImg you must write the path of image: in my example img.png
